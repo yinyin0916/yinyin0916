@@ -1,8 +1,10 @@
 ### 
 👋 Hi! My name is Rosy and I am from Suzhou, China. I am a senior student majoring Statistics and double minoring in Data Science & Economics.
+
 <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
-</div>
+<span>  </span>
+</span><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yinyin0916" />
+<span>  </span>
 
 <!--
 **yinyin0916/yinyin0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
