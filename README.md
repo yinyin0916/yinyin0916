@@ -1,7 +1,25 @@
 ### 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wRmOK4J2261gI/giphy.gif" width="400"/>
-</div> Hi! My name is Rosy and I am from Suzhou, China. I am a senior student majoring Statistics and double minoring in Data Science & Economics.
+</div>
+
+
+## About me
+Hi! My name is Rosy and I am from Suzhou, China. I am a senior student majoring Statistics and double minoring in Data Science & Economics.
+
+
+## Things I am passionate about
+- 🍰🐶🎹
+- Play around with data
+
+
+
+<br><br><br>
+
+
+
+
+
 
 <div align="center">
 <span>  </span>
