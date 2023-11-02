@@ -5,7 +5,7 @@
 
 
 ## About me
-Hi! My name is Rosy and I am from Suzhou, China. I am a senior student majoring Statistics and double minoring in Data Science & Economics.
+Hi, I am currently a first-year graduate student at New York University Data Science Program. I spent my undergraduate at University of California, San Diego majoring statistics and minoring Data Science & Economics. Through my past experiences, I found my passion in solving real life problems using big data, especially in business and finance. I am currently seeking data analyst / data scientist summer 2024 Internship!
 
 
 ## Things I am passionate about
