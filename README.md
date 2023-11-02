@@ -21,10 +21,6 @@ Hi, I am currently a first-year graduate student at New York University Data Sci
 
 
 
-<div align="center">
-<span>  </span>
-</span><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yinyin0916" />
-<span>  </span>
 <!--
 **yinyin0916/yinyin0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
