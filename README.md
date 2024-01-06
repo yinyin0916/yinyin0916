@@ -7,7 +7,7 @@
 ## About me
 Hi, I am currently a first-year graduate student at New York University Data Science Program. I spent my undergraduate at University of California, San Diego majoring statistics and minoring Data Science & Economics. Through my past experiences, I found my passion in solving real life problems using big data, especially in business and finance. I am currently seeking data analyst / data scientist summer 2025 Internship!
 
-
+<!--
 ## Things I am passionate about
 - 🍰🐶🎹
 - Play around with data
@@ -21,7 +21,7 @@ Hi, I am currently a first-year graduate student at New York University Data Sci
 
 
 
-<!--
+
 **yinyin0916/yinyin0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
